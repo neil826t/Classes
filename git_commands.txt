@@ -1,0 +1,319 @@
+ 1113  git pull origin master
+ 1114  git add FacialRecognition/facial_recognition.ipynb 
+ 1115  git commit -m "Lab complete"
+ 1116  git push origin master
+ 1123  git pull origin master
+ 1124  git add DataVisualization/data_visualization.ipynb 
+ 1125  git commit -m "first 2"
+ 1126  git push origin master
+ 1128  git pull origin master
+ 1129  git add Sampling/sampling.ipynb 
+ 1130  git commit -m "Sampling completed"
+ 1131  git push origin master
+ 1214  git pull origin master
+ 1215  git add DataVisualization/data_visualization.ipynb 
+ 1216  git commit -m "Done"
+ 1217  git push origin master
+ 1222  git pull origin master
+ 1223  git add FourierTransform/fourier_transform.ipynb 
+ 1224  git commit -m "Done!"
+ 1225  git push origin master
+ 1227  git pull origin master
+ 1228  git add FourierTransform/fourier_transform.ipynb 
+ 1229  git commit -m 'First 4'
+ 1230  git push origin master
+ 1362  git pull origin master
+ 1363  git add Profiling/profiling.py 
+ 1364  git commit -m "Problem 1"
+ 1365  git push origin master
+ 1366  git pull origin master
+ 1367  git add Profiling/profiling.py 
+ 1368  git commit -m "Problems 2-3"
+ 1369  git push origin master
+ 1372  git pull origin master
+ 1373  git add Profiling/
+ 1377  git commit -m "The rest"
+ 1378  git push origin master
+ 1379  git pull origin master
+ 1380  git add Profiling/profiling.py 
+ 1381  git commit -m "Fixed p2"
+ 1382  git push origin master
+ 1383  git pull origin master
+ 1384  git add Profiling/profiling.py 
+ 1385  git commit -m "Fixed final errors"
+ 1386  git push origin master
+ 1405  git pull origin master
+ 1407  git pull origin master
+ 1408  git add FourierTransform/
+ 1409  git commit -m "Full Convolution Lab"
+ 1410  git push origin master
+ 1411  git pull origin master
+ 1412  git add FourierTransform/fourier_transform.ipynb 
+ 1413  git commit -m "Comments"
+ 1414  git push origin master
+ 1461  git pull origin master 
+ 1462  git add SympyIntro/sympy_intro.py 
+ 1463  git commit -m "Finished with comments"
+ 1464  git push origin master
+ 1478  git pull origin master
+ 1479  git add PolynomialInterpolation/polynomial_interpolation.py 
+ 1480  git commit -m "First 4"
+ 1481  git push origin master
+ 1484  git pull origin master
+ 1485  git add PolynomialInterpolation/polynomial_interpolation.py 
+ 1486  git commit -m "Done"
+ 1487  git push origin master
+ 1489  git pull origin master
+ 1490  git add PolynomialInterpolation/polynomial_interpolation.py 
+ 1491  git commit -m "Comments"
+ 1492  git push origin master
+ 1501  git add p21.py 
+ 1502  git add p22.py
+ 1503  git commit -m "21 and 22"
+ 1504  git push origin main
+ 1514  git init
+ 1515  git add README.md 
+ 1516  git commit -m "firstcommit"
+ 1517  git branch -M main
+ 1518  git remote add origin https://github.com/neil826t/ProjectEuler.git
+ 1519  git push -u origin main
+ 1520  git pull origin master
+ 1521  git remote -v
+ 1522  git push origin main
+ 1523  git push origin master
+ 1524  git remote -v
+ 1525  git branch -M main
+ 1526  git fetch
+ 1527  git reset
+ 1528  git push
+ 1529  git push --set-upstream origin master
+ 1530  git push -u origin main
+ 1535  git init -b main
+ 1543  git version
+ 1544  git verify
+ 1545  git remote -v
+ 1548  git remote -v
+ 1549  git repo create
+ 1552  git repo sync
+ 1554  git branch -M main
+ 1555  git branch
+ 1556  git add .
+ 1557  git commit -m 'init'
+ 1558  git config --global user.email "neil826t@gmail.com"
+ 1559  git config --global user.name "Neil Thompson"
+ 1560  git commit -m 'init'
+ 1561  git push origin main
+ 1568  git add PE67.ipynb
+ 1569  git add PE67.py 
+ 1570  git commit -m "67 already done"
+ 1571  git push origin master
+ 1572  git push origin main
+ 1573  git remote set-url origin https://github.com/neil826t/ProjectEuler.git
+ 1574  git pull origin main
+ 1575  git push origin master
+ 1576  git push origin main
+ 1577  git config --global credential.helper store
+ 1578  git config --global credential.helper cache
+ 1579  git push origin main
+ 1605  git pull origin master
+ 1606  git add Differentiation/differentiation.py 
+ 1607  git commit -m "done"
+ 1608  git push origin master
+ 1611  git init
+ 1612  git add StrideExercise.ipynb 
+ 1613  git commit -m "Finished"
+ 1614  git branch -M main
+ 1615  git remote add origin https://github.com/neil826t/Stride.git
+ 1616  git push -u origin main
+ 1626  git pull origin master
+ 1627  git add NewtonsMethod/newtons_method.py 
+ 1628  git commit -m "First 4"
+ 1629  git push origin master
+ 1630  git add NewtonsMethod/newtons_method.py 
+ 1631  git commit -m "Attempt at 5"
+ 1632  git push origin master
+ 1635  git init
+ 1636  git pull origin master
+ 1637  git add GaussianQuadrature/gaussian_quadrature.py 
+ 1638  git commit -m "Finished lab"
+ 1639  git push origin master
+ 1657  git pull origin main
+ 1658  git add p23.ipynb 
+ 1659  git commit -m "Problem 23"
+ 1660  git push origin main
+ 1675  git pull origin master
+ 1676  git add NewtonsMethod/newtons_method.py 
+ 1677  git commit -m "DOPE BASINS"
+ 1678  git push origin master
+ 1687  git add newtons_method.py 
+ 1688  git commit -m "Almost forgot to comment"
+ 1689  git push origin master
+ 1704  git pull origin master
+ 1705  git add OneD_Optimization/oneD_optimization.py 
+ 1706  git commit -m "Finished lab"
+ 1707  git push origin master
+ 1729  git pull origin master
+ 1730  git add Conditioning_Stability/conditioning_stability.py 
+ 1731  git commit -m "All the lab"
+ 1732  git push origin master
+ 1748  git pull origin master
+ 1749  git add OneD_Optimization/oneD_optimization.py 
+ 1750  git commit -m "Made it return the proper things"
+ 1751  git push origin master
+ 1756  git pull origin master
+ 1757  git add MonteCarloIntegration/montecarlo_integration.py 
+ 1758  git commit -m "FInished"
+ 1759  git push origin master
+ 1776  git remote set -url origin git@bitbucket.org:neilqvt/vol_1.git
+ 1777  git remote set-url origin git@bitbucket.org:neilqvt/vol_1.git
+ 1779  git remote set-url origin git@bitbucket.org:neilqvt/vol_2.git
+ 1787  git pull origin master
+ 1788  git add RegularExpressions/regular_expressions.py 
+ 1789  git commit -m "Big brains"
+ 1790  git push origin master
+ 1800  git pull origin master
+ 1801  git add GradientMethods/gradient_methods.py 
+ 1802  git commit -m "Did lab with comments"
+ 1803  git push origin master
+ 1807  git pull origin master
+ 1808  git add ComplexFunctions/complex_functions.ipynb 
+ 1809  git commit -m "Finished"
+ 1810  git push origin master
+ 1819  git pull origin master
+ 1820  git add Simplex/simplex.py 
+ 1821  git commit -m "Fun lab!"
+ 1822  git push origin master
+ 1838  git pull origin master
+ 1839  git add OpenGym/opengym.ipynb 
+ 1840  git commit -m "Lab done"
+ 1841  git push origin master
+ 1843  git pull origin master
+ 1844  git add OpenGym/opengym.ipynb 
+ 1845  git commit -m "Comments"
+ 1846  git pull origin master
+ 1847  git push origin master
+ 1858  git pull origin master
+ 1859  git add CVXPY_Intro/cvxpy_intro.py 
+ 1860  git commit -m "Lab done for SG"
+ 1861  git push origin master
+ 1869  git pull origin master
+ 1870  git add PageRank/pagerank.py 
+ 1871  git commit -m "Done!"
+ 1872  git push origin master
+ 1876  git pull origin master
+ 1877  git add CVXPY_Intro/cvxpy_intro.py 
+ 1878  git commit -m "Fixed return in prob 1, servings multiplier in prob 6"
+ 1879  git push origin master
+ 1883  git pull origin master
+ 1884  git add IterativeSolvers/iterative_solvers.py 
+ 1885  git commit -m "2.5 problems"
+ 1886  git push origin master
+ 1887  git pull origin master
+ 1888  git add IterativeSolvers/iterative_solvers.py 
+ 1889  git commit -m "3-5 problems"
+ 1890  git push origin master
+ 1891  git pull origin master
+ 1892  git add IterativeSolvers/iterative_solvers.py 
+ 1893  git commit -m "67 problems"
+ 1894  git push origin master
+ 1903  git pull origin master
+ 1904  git add NMF/NMF.ipynb 
+ 1905  git commit -m "First 3 problems"
+ 1906  git push origin master
+ 1915  git pull origin master
+ 1916  git add SQL1/sql1.py 
+ 1917  git commit -m "First 2"
+ 1918  git push origin master
+ 1921  git pull origin master
+ 1922  git add NMF/NMF.ipynb 
+ 1923  git commit -m "Finished"
+ 1924  git push origin master
+ 1930  git pull origin master
+ 1931  git add SQL1/sql1.py 
+ 1932  git commit -m "EZ SQL"
+ 1933  git push origin master
+ 1944  git pull origin master
+ 1945  git add InteriorPoint_Linear/interior_point_linear.py 
+ 1946  git commit -m "All done"
+ 1947  git push origin master
+ 1956  git pull origin master
+ 1957  git add SQL2/sql2.py
+ 1958  git commit -m "DONE"
+ 1959  git push origin master
+ 1962  git pull origin master
+ 1963  git add DrazinInverse/drazin.py 
+ 1964  git commit -m "First 2"
+ 1965  git push origin master
+ 1968  git pull origin master
+ 1969  git add DynamicProgramming/dynamic_programming.py 
+ 1970  git commit -m "Done"
+ 1971  git push origin master
+ 1986  git pull origin master
+ 1987  git add PolicyFunctionIteration/policy_iteration.py 
+ 1988  git commit -m "HAlfway"
+ 1989  git push origin master
+ 1991  git pull origin master
+ 1992  git add PolicyFunctionIteration/policy_iteration.py 
+ 1993  git commit -m "rest"
+ 1994  git push origin master
+ 2008  git --version
+ 2009  git --update
+ 2010  sudo apt-get install git
+ 2011  git --update
+ 2012  git --version
+ 2013  git config
+ 2014  git config liar
+ 2015  git config list
+ 2016  git config --list
+ 2019  git init
+ 2022  cd .git
+ 2027  git status
+ 2031  git status
+ 2032  git add *
+ 2033  git commit -m 'create class files'
+ 2034  git status
+ 2035  git push
+ 2038  git status
+ 2039  git add statistics.txt 
+ 2040  git commit -m 'add statistics class curriculum'
+ 2041  git git status
+ 2042  git status
+ 2043  git restore statistics.txt
+ 2045  git status
+ 2047  git status
+ 2048  git add history.txt 
+ 2049  git commit -m "add history class curriculum"
+ 2052  git status
+ 2053  git commit -a -m "Changed both statistics and history class curricula"
+ 2054  touch .gitignore
+ 2055  nano .gitignore
+ 2056  git add .gitignore 
+ 2057  git commit -m "ignoring api-keys.txt"
+ 2058  git status
+ 2059  git checkout -b music
+ 2060  git log
+ 2063  git add music.txt 
+ 2064  git commit -m "add empty music file"
+ 2066  git add music.txt 
+ 2067  git commit -m "Added curriculum"
+ 2068  git branch
+ 2069  git branch orchestra
+ 2070  git checkout orchestra
+ 2073  git add electric_guitar.txt 
+ 2074  git commit -m "added curriculum to electric guitar"
+ 2075  git checkout music
+ 2076  git merge orchestra
+ 2077  git branch
+ 2078  git branch --delete orchestra
+ 2079  git branch
+ 2080  git status
+ 2082  git log
+ 2083  git checkout main
+ 2084  git checkout master
+ 2085  git log
+ 2086  git merge music
+ 2087  git branch
+ 2088  git branch --delete music
+ 2090  git remote add origin git@github.com:neil826t/Classes.git
+ 2091  git push -u origin master
+ 2092  history | grep "git" > git_commands.txt
